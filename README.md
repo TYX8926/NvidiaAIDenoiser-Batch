@@ -4,7 +4,7 @@ Just an extension I made for DeclanRussell's [NvidiaAIDenoiser](https://github.c
 
 This is not a drop-in replacement or anything of some sort, it's just a simple Python code designed to be more user-friendly.
 
-## Usage
+## Requirements
 
 Of course, make sure you have Python 3 installed before running this!
 
