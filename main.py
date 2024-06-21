@@ -29,7 +29,7 @@ def wizard():
 
         for i in range((y - x) + 1):
             combined = path + prefix + suffix + str(count)
-            subprocess.run(["Denoiser.exe", "-i", (combined + ".png"), "-o", (combined + outputPath + "_denoised.png")])
+            subprocess.run(["Denoiser.exe", "-i", (combined + ".png"), "-o", (outputPath + combined + "_denoised.png")])
             count += 1
             print()
         
