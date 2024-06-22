@@ -13,4 +13,4 @@ The script will guide you through the things you'll have to specify.
 
 ## Why did I make this?
 
-I've been trying to find an intuitive image denoiser program to remove the JPEG compression of a JPEG image/processed video, but I only found ones that were way beyond my understanding to use or just too difficult to use. I could only do so much as use something like this. Oh well.
+I've been trying to find an intuitive image denoiser program to remove the JPEG compression of a JPEG image/processed video, but I only found ones that were way beyond my understanding to use or just too difficult to use. I could only do so much as use something like this, but even this isn't really the main focus of what I'm finding as I realized it doesn't work with JPEG deblocking. Oh well.
