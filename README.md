@@ -6,7 +6,7 @@ This is not a drop-in replacement or anything of some sort, it's just a simple P
 
 ## Requirements
 
-Of course, make sure you have Python 3 installed before running this!
+Of course, make sure you have Python 3 installed before running this! (Unless you are using the executable)
 
 And make sure you have NvidiaAIDenoiser added to PATH before using the script.
 The script will guide you through the things you'll have to specify.
