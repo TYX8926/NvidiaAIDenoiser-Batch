@@ -28,7 +28,7 @@ def wizard():
         print("Starting batch denoise...")
 
         for i in range((y - x) + 1):
-            combined = path + prefix + suffix + str(count)
+            combined = path + prefix + str(count) + suffix
             subprocess.run(["Denoiser.exe", "-i", (combined + ".png"), "-o", (outputPath + combined + "_denoised.png")])
             count += 1
             print()
